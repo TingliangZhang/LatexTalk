@@ -1,0 +1,3506 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.8.17)  5 DEC 2019 17:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**latextalk.tex
+(./latextalk.tex
+LaTeX2e <2018-12-01>
+(c:/texlive/2019/texmf-dist/tex/latex/ctex/ctexbeamer.cls
+(c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-04-06 L3 programming layer (loader) 
+
+(c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-04-06 L3 programming layer (code)
+\c_max_int=\count80
+\l_tmpa_int=\count81
+\l_tmpb_int=\count82
+\g_tmpa_int=\count83
+\g_tmpb_int=\count84
+\g__kernel_prg_map_int=\count85
+\c__ior_term_ior=\count86
+\c_log_iow=\count87
+\l_iow_line_count_int=\count88
+\l__iow_line_target_int=\count89
+\l__iow_one_indent_int=\count90
+\l__iow_indent_int=\count91
+\c_zero_dim=\dimen102
+\c_max_dim=\dimen103
+\l_tmpa_dim=\dimen104
+\l_tmpb_dim=\dimen105
+\g_tmpa_dim=\dimen106
+\g_tmpb_dim=\dimen107
+\c_zero_skip=\skip41
+\c_max_skip=\skip42
+\l_tmpa_skip=\skip43
+\l_tmpb_skip=\skip44
+\g_tmpa_skip=\skip45
+\g_tmpb_skip=\skip46
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count92
+\l__intarray_loop_int=\count93
+\c__intarray_sp_dim=\dimen108
+\g__intarray_font_int=\count94
+\c__fp_leading_shift_int=\count95
+\c__fp_middle_shift_int=\count96
+\c__fp_trailing_shift_int=\count97
+\c__fp_big_leading_shift_int=\count98
+\c__fp_big_middle_shift_int=\count99
+\c__fp_big_trailing_shift_int=\count100
+\c__fp_Bigg_leading_shift_int=\count101
+\c__fp_Bigg_middle_shift_int=\count102
+\c__fp_Bigg_trailing_shift_int=\count103
+\g__fp_array_int=\count104
+\l__fp_array_loop_int=\count105
+\l__sort_length_int=\count106
+\l__sort_min_int=\count107
+\l__sort_top_int=\count108
+\l__sort_max_int=\count109
+\l__sort_true_max_int=\count110
+\l__sort_block_int=\count111
+\l__sort_begin_int=\count112
+\l__sort_end_int=\count113
+\l__sort_A_int=\count114
+\l__sort_B_int=\count115
+\l__sort_C_int=\count116
+\l__tl_analysis_normal_int=\count117
+\l__tl_analysis_index_int=\count118
+\l__tl_analysis_nesting_int=\count119
+\l__tl_analysis_type_int=\count120
+\l__regex_internal_a_int=\count121
+\l__regex_internal_b_int=\count122
+\l__regex_internal_c_int=\count123
+\l__regex_balance_int=\count124
+\l__regex_group_level_int=\count125
+\l__regex_mode_int=\count126
+\c__regex_cs_in_class_mode_int=\count127
+\c__regex_cs_mode_int=\count128
+\l__regex_catcodes_int=\count129
+\l__regex_default_catcodes_int=\count130
+\c__regex_catcode_L_int=\count131
+\c__regex_catcode_O_int=\count132
+\c__regex_catcode_A_int=\count133
+\c__regex_all_catcodes_int=\count134
+\l__regex_show_lines_int=\count135
+\l__regex_min_state_int=\count136
+\l__regex_max_state_int=\count137
+\l__regex_left_state_int=\count138
+\l__regex_right_state_int=\count139
+\l__regex_capturing_group_int=\count140
+\l__regex_min_pos_int=\count141
+\l__regex_max_pos_int=\count142
+\l__regex_curr_pos_int=\count143
+\l__regex_start_pos_int=\count144
+\l__regex_success_pos_int=\count145
+\l__regex_curr_char_int=\count146
+\l__regex_curr_catcode_int=\count147
+\l__regex_last_char_int=\count148
+\l__regex_case_changed_char_int=\count149
+\l__regex_curr_state_int=\count150
+\l__regex_step_int=\count151
+\l__regex_min_active_int=\count152
+\l__regex_max_active_int=\count153
+\l__regex_replacement_csnames_int=\count154
+\l__regex_match_count_int=\count155
+\l__regex_min_submatch_int=\count156
+\l__regex_submatch_int=\count157
+\l__regex_zeroth_submatch_int=\count158
+\g__regex_trace_regex_int=\count159
+\c_empty_box=\box27
+\l_tmpa_box=\box28
+\l_tmpb_box=\box29
+\g_tmpa_box=\box30
+\g_tmpb_box=\box31
+\l__box_top_dim=\dimen109
+\l__box_bottom_dim=\dimen110
+\l__box_left_dim=\dimen111
+\l__box_right_dim=\dimen112
+\l__box_top_new_dim=\dimen113
+\l__box_bottom_new_dim=\dimen114
+\l__box_left_new_dim=\dimen115
+\l__box_right_new_dim=\dimen116
+\l__box_internal_box=\box32
+\l__coffin_internal_box=\box33
+\l__coffin_internal_dim=\dimen117
+\l__coffin_offset_x_dim=\dimen118
+\l__coffin_offset_y_dim=\dimen119
+\l__coffin_x_dim=\dimen120
+\l__coffin_y_dim=\dimen121
+\l__coffin_x_prime_dim=\dimen122
+\l__coffin_y_prime_dim=\dimen123
+\c_empty_coffin=\box34
+\l__coffin_aligned_coffin=\box35
+\l__coffin_aligned_internal_coffin=\box36
+\l_tmpa_coffin=\box37
+\l_tmpb_coffin=\box38
+\g_tmpa_coffin=\box39
+\g_tmpb_coffin=\box40
+\l__coffin_bounding_shift_dim=\dimen124
+\l__coffin_left_corner_dim=\dimen125
+\l__coffin_right_corner_dim=\dimen126
+\l__coffin_bottom_corner_dim=\dimen127
+\l__coffin_top_corner_dim=\dimen128
+\l__coffin_scaled_total_height_dim=\dimen129
+\l__coffin_scaled_width_dim=\dimen130
+\c__coffin_empty_coffin=\box41
+\l__coffin_display_coffin=\box42
+\l__coffin_display_coord_coffin=\box43
+\l__coffin_display_pole_coffin=\box44
+\l__coffin_display_offset_dim=\dimen131
+\l__coffin_display_x_dim=\dimen132
+\l__coffin_display_y_dim=\dimen133
+\g__file_internal_ior=\read1
+\l__seq_internal_a_int=\count160
+\l__seq_internal_b_int=\count161
+\c__deprecation_minus_one=\count162
+)
+(c:/texlive/2019/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvipdfmx.def 2019-04-06 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count163
+\g__driver_pdf_object_int=\count164
+))
+Document Class: ctexbeamer 2019/04/07 v2.4.15 Chinese adapter for class beamer 
+(CTEX)
+(c:/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2019-03-05 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count165
+\g__xparse_grabber_int=\count166
+\l__xparse_m_args_int=\count167
+\l__xparse_v_nesting_int=\count168
+)
+(c:/texlive/2019/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2019-03-05 LaTeX2e option processing using LaTeX3 keys
+)
+(c:/texlive/2019/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2019/04/07 v2.4.15 Document and package hooks (CTEX)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2019/04/07 v2.4.15 Patching commands (CTEX)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+))
+(c:/texlive/2019/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count169
+\l__ctex_tmp_box=\box45
+\l__ctex_tmp_dim=\dimen134
+\g__ctex_font_size_int=\count170
+
+(c:/texlive/2019/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2019/04/07 v2.4.15 Option configuration file (CTEX)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+(c:/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count171
+)
+\beamer@tempbox=\box46
+\beamer@tempcount=\count172
+\c@beamerpauses=\count173
+
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count174
+\beamer@minimum=\count175
+)
+\beamer@commentbox=\box47
+\beamer@modecount=\count176
+)
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+\headdp=\dimen135
+\footheight=\dimen136
+\sidebarheight=\dimen137
+\beamer@tempdim=\dimen138
+\beamer@finalheight=\dimen139
+\beamer@animht=\dimen140
+\beamer@animdp=\dimen141
+\beamer@animwd=\dimen142
+\beamer@leftmargin=\dimen143
+\beamer@rightmargin=\dimen144
+\beamer@leftsidebar=\dimen145
+\beamer@rightsidebar=\dimen146
+\beamer@boxsize=\dimen147
+\beamer@vboxoffset=\dimen148
+\beamer@descdefault=\dimen149
+\beamer@descriptionwidth=\dimen150
+\beamer@lastskip=\skip47
+\beamer@areabox=\box48
+\beamer@animcurrent=\box49
+\beamer@animshowbox=\box50
+\beamer@sectionbox=\box51
+\beamer@logobox=\box52
+\beamer@linebox=\box53
+\beamer@sectioncount=\count177
+\beamer@subsubsectionmax=\count178
+\beamer@subsectionmax=\count179
+\beamer@sectionmax=\count180
+\beamer@totalheads=\count181
+\beamer@headcounter=\count182
+\beamer@partstartpage=\count183
+\beamer@sectionstartpage=\count184
+\beamer@subsectionstartpage=\count185
+\beamer@animationtempa=\count186
+\beamer@animationtempb=\count187
+\beamer@xpos=\count188
+\beamer@ypos=\count189
+\beamer@ypos@offset=\count190
+\beamer@showpartnumber=\count191
+\beamer@currentsubsection=\count192
+\beamer@coveringdepth=\count193
+\beamer@sectionadjust=\count194
+\beamer@tocsectionnumber=\count195
+
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip48
+\beamer@paperheight=\skip49
+
+(c:/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(c:/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks15
+)
+(c:/texlive/2019/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+)
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen161
+\pgfutil@tempdimb=\dimen162
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
+) (c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box54
+
+(c:/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2019/02/02 v3.1.1 (3.1.1)
+))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen163
+\pgf@y=\dimen164
+\pgf@xa=\dimen165
+\pgf@ya=\dimen166
+\pgf@xb=\dimen167
+\pgf@yb=\dimen168
+\pgf@xc=\dimen169
+\pgf@yc=\dimen170
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count199
+\c@pgf@countb=\count266
+\c@pgf@countc=\count267
+\c@pgf@countd=\count268
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count269
+ (c:/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2019/02/02 v3.1.1 (3.1.1)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2019/02/02 v3.1.1 (3.1.1)
+)
+\pgfsys@objnum=\count270
+)))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfsyssoftpath@smallbuffer@items=\count271
+\pgfsyssoftpath@bigbuffer@items=\count272
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)) (c:/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(c:/texlive/2019/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+(c:/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen171
+\ar@mcellbox=\box55
+\extrarowheight=\dimen172
+\NC@list=\toks23
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box56
+)
+\everycr=\toks24
+\minrowclearance=\skip52
+)
+\rownum=\count273
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen173
+\pgfmath@count=\count274
+\pgfmath@box=\box57
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count275
+))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@picminx=\dimen174
+\pgf@picmaxx=\dimen175
+\pgf@picminy=\dimen176
+\pgf@picmaxy=\dimen177
+\pgf@pathminx=\dimen178
+\pgf@pathmaxx=\dimen179
+\pgf@pathminy=\dimen180
+\pgf@pathmaxy=\dimen181
+\pgf@xx=\dimen182
+\pgf@xy=\dimen183
+\pgf@yx=\dimen184
+\pgf@yy=\dimen185
+\pgf@zx=\dimen186
+\pgf@zy=\dimen187
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@path@lastx=\dimen188
+\pgf@path@lasty=\dimen189
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@shorten@end@additional=\dimen190
+\pgf@shorten@start@additional=\dimen191
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfpic=\box58
+\pgf@hbox=\box59
+\pgf@layerbox@main=\box60
+\pgf@picture@serial@count=\count276
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgflinewidth=\dimen192
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@pt@x=\dimen193
+\pgf@pt@y=\dimen194
+\pgf@pt@temp=\dimen195
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfarrowsep=\dimen196
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@max=\dimen197
+\pgf@sys@shading@range@num=\count277
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfexternal@startupbox=\box61
+))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2019/02/02 v3.1.1 (3.1.1)
+) (c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))) (c:/texlive/2019/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count278
+\XC@countmixins=\count279
+)
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+(c:/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen198
+\Hy@linkcounter=\count280
+\Hy@pagecounter=\count281
+
+(c:/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count282
+
+(c:/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4393.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4393.
+Package hyperref Info: Option `implicit' set `false' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count283
+
+(c:/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen199
+\Fld@menulength=\count284
+\Field@Width=\dimen256
+\Fld@charsize=\dimen257
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count285
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (c:/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2018/11/30 v6.88e Hyperref driver for XeTeX
+
+(c:/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+)
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box62
+\c@Hy@AnnotLevel=\count286
+\HyField@AnnotCount=\count287
+\Fld@listcount=\count288
+\c@bookmark@seq@number=\count289
+
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
+
+)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks28
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2019/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2013/03/28
+
+(c:/texlive/2019/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+(c:/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count290
+\beamer@lastskipcover=\skip53
+\beamer@trivlistdepth=\count291
+)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count292
+\c@part=\count293
+\c@section=\count294
+\c@subsection=\count295
+\c@subsubsection=\count296
+)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box63
+\beamer@frametitlebox=\box64
+\beamer@zoombox=\box65
+\beamer@zoomcount=\count297
+\beamer@zoomframecount=\count298
+\beamer@frametextheight=\dimen258
+\c@subsectionslide=\count299
+\beamer@frametopskip=\skip54
+\beamer@framebottomskip=\skip55
+\beamer@frametopskipautobreak=\skip56
+\beamer@framebottomskipautobreak=\skip57
+\beamer@envbody=\toks29
+\framewidth=\dimen259
+\c@framenumber=\count300
+)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box66
+\beamer@autobreakcount=\count301
+\beamer@autobreaklastheight=\dimen260
+\beamer@frametitletoks=\toks30
+\beamer@framesubtitletoks=\toks31
+)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+\beamer@footins=\box67
+)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasecolor.sty)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box68
+)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks32
+
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box69
+\bmb@colorbox=\box70
+\bmb@boxshadow=\box71
+\bmb@boxshadowball=\box72
+\bmb@boxshadowballlarge=\box73
+\bmb@temp=\dimen261
+\bmb@dima=\dimen262
+\bmb@dimb=\dimen263
+\bmb@prevheight=\dimen264
+)
+\beamer@blockheadheight=\dimen265
+))
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+(c:/texlive/2019/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks33
+)
+\c@figure=\count302
+\c@table=\count303
+\abovecaptionskip=\skip58
+\belowcaptionskip=\skip59
+)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen266
+)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip60
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen267
+))
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen268
+)
+(c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count304
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count305
+\leftroot@=\count306
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count307
+\DOTSCASE@=\count308
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box74
+\strutbox@=\box75
+\big@size=\dimen269
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count309
+\c@MaxMatrixCols=\count310
+\dotsspace@=\muskip17
+\c@parentequation=\count311
+\dspbrk@lvl=\count312
+\tag@help=\toks35
+\row@=\count313
+\column@=\count314
+\maxfields@=\count315
+\andhelp@=\toks36
+\eqnshift@=\dimen270
+\alignsep@=\dimen271
+\tagshift@=\dimen272
+\tagwidth@=\dimen273
+\totwidth@=\dimen274
+\lineht@=\dimen275
+\@envbody=\toks37
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(c:/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks39
+\thm@bodyfont=\toks40
+\thm@headfont=\toks41
+\thm@notefont=\toks42
+\thm@headpunct=\toks43
+\thm@preskip=\skip63
+\thm@postskip=\skip64
+\thm@headsep=\skip65
+\dth@everypar=\toks44
+)
+\c@theorem=\count316
+)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+\beamer@dima=\dimen276
+\beamer@dimb=\dimen277
+)
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
+(c:/texlive/2019/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2019/04/07 v2.4.15 XeLaTeX adapter (CTEX)
+
+(c:/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2019/04/07 v3.7.2 Typesetting CJK scripts with XeLaTeX
+
+(c:/texlive/2019/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2019-03-05 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen278
+\l__xtemplate_tmp_int=\count317
+\l__xtemplate_tmp_muskip=\muskip18
+\l__xtemplate_tmp_skip=\skip66
+)
+\l__xeCJK_tmp_int=\count318
+\l__xeCJK_tmp_box=\box76
+\l__xeCJK_tmp_dim=\dimen279
+\l__xeCJK_tmp_skip=\skip67
+\g__xeCJK_space_factor_int=\count319
+\l__xeCJK_begin_int=\count320
+\l__xeCJK_end_int=\count321
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip68
+\g__xeCJK_node_int=\count322
+\c__xeCJK_CJK_node_dim=\dimen280
+\c__xeCJK_CJK-space_node_dim=\dimen281
+\c__xeCJK_default_node_dim=\dimen282
+\c__xeCJK_default-space_node_dim=\dimen283
+\c__xeCJK_CJK-widow_node_dim=\dimen284
+\c__xeCJK_normalspace_node_dim=\dimen285
+\l__xeCJK_ccglue_skip=\skip69
+\l__xeCJK_ecglue_skip=\skip70
+\l__xeCJK_punct_kern_skip=\skip71
+\l__xeCJK_last_penalty_int=\count323
+\l__xeCJK_last_bound_dim=\dimen286
+\l__xeCJK_last_kern_dim=\dimen287
+\l__xeCJK_widow_penalty_int=\count324
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2352.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen288
+\l__xeCJK_mixed_punct_width_dim=\dimen289
+\l__xeCJK_middle_punct_width_dim=\dimen290
+\l__xeCJK_fixed_margin_width_dim=\dimen291
+\l__xeCJK_mixed_margin_width_dim=\dimen292
+\l__xeCJK_middle_margin_width_dim=\dimen293
+\l__xeCJK_bound_punct_width_dim=\dimen294
+\l__xeCJK_bound_margin_width_dim=\dimen295
+\l__xeCJK_margin_minimum_dim=\dimen296
+\l__xeCJK_kerning_total_width_dim=\dimen297
+\l__xeCJK_same_align_margin_dim=\dimen298
+\l__xeCJK_different_align_margin_dim=\dimen299
+\l__xeCJK_kerning_margin_width_dim=\dimen300
+\l__xeCJK_kerning_margin_minimum_dim=\dimen301
+\l__xeCJK_bound_dim=\dimen302
+\l__xeCJK_reverse_bound_dim=\dimen303
+\l__xeCJK_minimum_bound_dim=\dimen304
+\l__xeCJK_kerning_margin_dim=\dimen305
+\l__xeCJK_original_margin_dim=\dimen306
+\g__xeCJK_family_int=\count325
+\l__xeCJK_fam_int=\count326
+\g__xeCJK_fam_allocation_int=\count327
+\l__xeCJK_verb_case_int=\count328
+\l__xeCJK_verb_exspace_skip=\skip72
+
+(c:/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count329
+\l__fontspec_language_int=\count330
+\l__fontspec_strnum_int=\count331
+\l__fontspec_tmp_int=\count332
+\l__fontspec_tmpa_int=\count333
+\l__fontspec_tmpb_int=\count334
+\l__fontspec_tmpc_int=\count335
+\l__fontspec_em_int=\count336
+\l__fontspec_emdef_int=\count337
+\l__fontspec_strong_int=\count338
+\l__fontspec_strongdef_int=\count339
+\l__fontspec_tmpa_dim=\dimen307
+\l__fontspec_tmpb_dim=\dimen308
+\l__fontspec_tmpc_dim=\dimen309
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+(c:/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 4051.
+LaTeX Info: Redefining \slshape on input line 4056.
+LaTeX Info: Redefining \scshape on input line 4061.
+LaTeX Info: Redefining \upshape on input line 4066.
+LaTeX Info: Redefining \em on input line 4096.
+LaTeX Info: Redefining \emph on input line 4121.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 4171.
+
+))
+(c:/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2019/04/07 v3.7.2 Configuration file for xeCJK package
+))
+(c:/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2019/04/07 v3.7.2 xeCJK font effect
+
+(c:/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box77
+\UL@hyphenbox=\box78
+\UL@skip=\skip73
+\UL@hook=\toks45
+\UL@height=\dimen310
+\UL@pe=\count340
+\UL@pixel=\dimen311
+\ULC@box=\box79
+Package: ulem 2012/05/18
+\ULdepth=\dimen312
+)
+(c:/texlive/2019/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+Package: CJKfntef 2015/04/18 4.8.4
+\CJK@fntefSkip=\skip74
+\CJK@nest=\count341
+\CJK@fntefDimen=\dimen313
+\CJK@underdotBox=\box80
+\CJK@ULbox=\box81
+\CJK@underanyskip=\dimen314
+)
+\l__xeCJK_space_skip=\skip75
+\c__xeCJK_ulem-begin_node_dim=\dimen315
+\c__xeCJK_null_box=\box82
+\l__xeCJK_fntef_box=\box83
+\l__xeCJK_under_symbol_box=\box84
+\c__xeCJK_filll_skip=\skip76
+)
+\ccwd=\dimen316
+\l__ctex_ccglue_skip=\skip77
+)
+\l__ctex_ziju_dim=\dimen317
+
+(c:/texlive/2019/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count342
+
+(c:/texlive/2019/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+))
+(c:/texlive/2019/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-beamer.de
+f
+File: ctex-scheme-chinese-beamer.def 2019/04/07 v2.4.15 Chinese scheme for beam
+er (CTEX)
+ (c:/texlive/2019/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2019/04/07 v2.4.15 Caption with encoding UTF8 (CTEX)
+))
+(c:/texlive/2019/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
+File: ctex-fontset-fandol.def 2019/04/07 v2.4.15 Fandol fonts definition (CTEX)
+
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolSong-Regular(0)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold
+},ItalicFont={FandolKai-Regular}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FandolKai-Regular.otf]/OT"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+
+)) (c:/texlive/2019/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2019/04/07 v2.4.15 Configuration file (CTEX)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfnodeparttextbox=\box85
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2019/02/02 v3.1.1 (3.1.1)
+\pgf@nodesepstart=\dimen318
+\pgf@nodesepend=\dimen319
+)
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2019/02/02 v3.1.1 (3.1.1)
+)) (c:/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2019/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen320
+\pgffor@skip=\dimen321
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
+))
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@plot@mark@count=\count343
+\pgfplotmarksize=\dimen322
+)
+\tikz@lastx=\dimen323
+\tikz@lasty=\dimen324
+\tikz@lastxsaved=\dimen325
+\tikz@lastysaved=\dimen326
+\tikzleveldistance=\dimen327
+\tikzsiblingdistance=\dimen328
+\tikz@figbox=\box86
+\tikz@figbox@bg=\box87
+\tikz@tempbox=\box88
+\tikz@tempbox@bg=\box89
+\tikztreelevel=\count344
+\tikznumberofchildren=\count345
+\tikznumberofcurrentchild=\count346
+\tikz@fig@count=\count347
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfmatrixcurrentrow=\count348
+\pgfmatrixcurrentcolumn=\count349
+\pgf@matrix@numberofcolumns=\count350
+)
+\tikz@expandcount=\count351
+
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))) (./beamerthemematerial.sty
+(c:/texlive/2019/texmf-dist/tex/latex/roboto/roboto.sty
+Package: roboto 2019/04/05 (Bob Tennent) Supports Roboto fonts for all LaTeX en
+gines.
+
+(c:/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(c:/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks48
+\XKV@tempa@toks=\toks49
+)
+\XKV@depth=\count352
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+Requested font "[Roboto-Regular.otf]/OT" at 10.94997pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+Requested font "[Roboto-Regular.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+Requested font "[Roboto-Bold.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+Requested font "[Roboto-Italic.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf
+Requested font "[Roboto-BoldItalic.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-BoldItalic.o
+tf
+
+Package fontspec Info: Font family 'Roboto(0)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Ligatures=TeX,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=DF
+LT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=DF
+LT;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=DFLT;
++pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=DFLT;
++pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=DFL
+T;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=DFL
+T;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=DFLT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=DFLT;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+LaTeX Info: Redefining \sffamily on input line 143.
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 143.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;m
+apping=tex-text;" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+
+Package fontspec Info: Font family 'Roboto(1)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=DF
+LT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=DF
+LT;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=DFLT;
++pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=DFLT;
++pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=DFL
+T;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=DFL
+T;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=DFLT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=DFLT;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[RobotoCondensed-Regular.otf]/OT" at 10.94997pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/RobotoCondensed-Reg
+ular.otf
+Requested font "[RobotoCondensed-Regular.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/RobotoCondensed-Reg
+ular.otf
+Requested font "[RobotoCondensed-Bold.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/RobotoCondensed-Bol
+d.otf
+Requested font "[RobotoCondensed-Italic.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/RobotoCondensed-Ita
+lic.otf
+Requested font "[RobotoCondensed-BoldItalic.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/RobotoCondensed-Bol
+dItalic.otf
+
+Package fontspec Info: Font family 'RobotoCondensed(0)' created for font
+(fontspec)             'RobotoCondensed' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,Numbers =
+(fontspec)             {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;la
+nguage=DFLT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Regular.otf]/OT:script=latn;la
+nguage=DFLT;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=DFLT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Bold.otf]/OT:script=latn;langu
+age=DFLT;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;lan
+guage=DFLT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-Italic.otf]/OT:script=latn;lan
+guage=DFLT;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=DFLT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoCondensed-BoldItalic.otf]/OT:script=latn
+;language=DFLT;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[RobotoSlab-Regular.otf]/OT" at 10.94997pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/RobotoSlab-Regular.
+otf
+Requested font "[RobotoSlab-Regular.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/RobotoSlab-Regular.
+otf
+Requested font "[RobotoSlab-Bold.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/RobotoSlab-Bold.otf
+
+Package fontspec Info: Font family 'RobotoSlab(0)' created for font
+(fontspec)             'RobotoSlab' with options [Ligatures = TeX,Scale =
+(fontspec)             1,Extension = .otf,UprightFont = *-Regular,BoldFont =
+(fontspec)             *-Bold].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Regular.otf]/OT:script=DFLT;languag
+e=DFLT;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Regular.otf]/OT:script=DFLT;languag
+e=DFLT;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Bold.otf]/OT:script=DFLT;language=D
+FLT;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[RobotoSlab-Bold.otf]/OT:script=DFLT;language=D
+FLT;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Roboto(2)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=DF
+LT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=DF
+LT;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=DFL
+T;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=DFL
+T;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[Roboto-Medium.otf]/OT" at 10.94997pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Medium.otf
+Requested font "[Roboto-Medium.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Medium.otf
+Requested font "[Roboto-MediumItalic.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-MediumItalic
+.otf
+
+Package fontspec Info: Font family 'Roboto(3)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Medium,ItalicFont = *-MediumItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Medium.otf]/OT:script=latn;language=DFL
+T;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Medium.otf]/OT:script=latn;language=DFL
+T;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-MediumItalic.otf]/OT:script=latn;langua
+ge=DFLT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-MediumItalic.otf]/OT:script=latn;langua
+ge=DFLT;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[Roboto-Thin.otf]/OT" at 10.94997pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Thin.otf
+Requested font "[Roboto-Thin.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Thin.otf
+Requested font "[Roboto-ThinItalic.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-ThinItalic.o
+tf
+
+Package fontspec Info: Font family 'Roboto(4)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Thin,ItalicFont = *-ThinItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Thin.otf]/OT:script=latn;language=DFLT;
++pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Thin.otf]/OT:script=latn;language=DFLT;
++pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-ThinItalic.otf]/OT:script=latn;language
+=DFLT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-ThinItalic.otf]/OT:script=latn;language
+=DFLT;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[Roboto-Light.otf]/OT" at 10.94997pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Light.otf
+Requested font "[Roboto-Light.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Light.otf
+Requested font "[Roboto-LightItalic.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-LightItalic.
+otf
+
+Package fontspec Info: Font family 'Roboto(5)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Light,ItalicFont = *-LightItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Light.otf]/OT:script=latn;language=DFLT
+;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Light.otf]/OT:script=latn;language=DFLT
+;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-LightItalic.otf]/OT:script=latn;languag
+e=DFLT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-LightItalic.otf]/OT:script=latn;languag
+e=DFLT;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[Roboto-Bold.otf]/OT" at 10.94997pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+
+Package fontspec Info: Font family 'Roboto(6)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Bold,ItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=DFLT;
++pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=DFLT;
++pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=DFLT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=DFLT;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+Requested font "[Roboto-Black.otf]/OT" at 10.94997pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Black.otf
+Requested font "[Roboto-Black.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Black.otf
+Requested font "[Roboto-BlackItalic.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-BlackItalic.
+otf
+
+Package fontspec Info: Font family 'Roboto(7)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Black,ItalicFont = *-BlackItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Black.otf]/OT:script=latn;language=DFLT
+;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Black.otf]/OT:script=latn;language=DFLT
+;+pnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BlackItalic.otf]/OT:script=latn;languag
+e=DFLT;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BlackItalic.otf]/OT:script=latn;languag
+e=DFLT;+pnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Roboto(8)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=DF
+LT;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=DF
+LT;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=DFLT;
++pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=DFLT;
++pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=DFL
+T;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=DFL
+T;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=DFLT;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=DFLT;+pnum;+onum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Roboto(9)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Monospaced,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=DF
+LT;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=DF
+LT;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=DFLT;
++tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=DFLT;
++tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=DFL
+T;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=DFL
+T;+tnum;+lnum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=DFLT;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=DFLT;+tnum;+lnum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'Roboto(10)' created for font 'Roboto' with
+(fontspec)             options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .otf,Numbers = {Monospaced,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=DF
+LT;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Regular.otf]/OT:script=latn;language=DF
+LT;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=DFLT;
++tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Bold.otf]/OT:script=latn;language=DFLT;
++tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=DFL
+T;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-Italic.otf]/OT:script=latn;language=DFL
+T;+tnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=DFLT;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Roboto-BoldItalic.otf]/OT:script=latn;language
+=DFLT;+tnum;+onum;+smcp;mapping=tex-text;"
+
+)
+(c:/texlive/2019/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2019/03/02 version 4.20 text color boxes
+
+(c:/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks50
+\verbatim@line=\toks51
+\verbatim@in@stream=\read3
+)
+(c:/texlive/2019/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(c:/texlive/2019/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box90
+\tcb@upperbox=\box91
+\tcb@lowerbox=\box92
+\tcb@phantombox=\box93
+\c@tcbbreakpart=\count353
+\c@tcblayer=\count354
+\tcolorbox@number=\count355
+\tcb@temp=\box94
+\tcb@temp=\box95
+\tcb@temp=\box96
+\tcb@temp=\box97
+\tcb@out=\write5
+\tcb@record@out=\write6
+
+(c:/texlive/2019/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '4.20'
+\c@tcbrastercolumn=\count356
+\c@tcbrasterrow=\count357
+\c@tcbraster=\count358
+) (c:/texlive/2019/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '4.20'
+\tcb@waterbox=\box98
+(c:/texlive/2019/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.20'
+)) (c:/texlive/2019/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '4.20'
+\tcb@testbox=\box99
+\tcb@totalupperbox=\box100
+\tcb@totallowerbox=\box101
+) (c:/texlive/2019/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '4.20'
+) (c:/texlive/2019/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '4.20'
+) (c:/texlive/2019/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '4.20'
+\tcbfitdim=\dimen329
+\tcb@lowerfitdim=\dimen330
+\tcb@upperfitdim=\dimen331
+\tcb@cur@hbadness=\count359
+) (c:/texlive/2019/texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
+Library (tcolorbox): 'tcbxparse.code.tex' version '4.20'
+)) (./beamerinnerthemematerial.sty) (./beamerouterthemematerial.sty)
+(./beamercolorthemematerial.sty))
+(c:/texlive/2019/texmf-dist/tex/latex/beamer/beamerfontthemeserif.sty)
+(c:/texlive/2019/texmf-dist/tex/latex/mflogo/mflogo.sty
+Package: mflogo 1999/03/10 v2.0 LaTeX package for Metafont and MetaPost logos
+)
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/listingsutf8.sty
+Package: listingsutf8 2016/05/16 v1.3 Allow UTF-8 in listings input (HO)
+
+(c:/texlive/2019/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count360
+\lst@gtempboxa=\box102
+\lst@token=\toks52
+\lst@length=\count361
+\lst@currlwidth=\dimen332
+\lst@column=\count362
+\lst@pos=\count363
+\lst@lostspace=\dimen333
+\lst@width=\dimen334
+\lst@newlines=\count364
+\lst@lineno=\count365
+\lst@maxwidth=\dimen335
+
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count366
+\lst@skipnumbers=\count367
+\lst@framebox=\box103
+)
+(c:/texlive/2019/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
+
+Package listingsutf8 Warning: Package loading is aborted because of missing \pd
+f@unescapehex.
+(listingsutf8)                It is provided by pdfTeX >= 1.30.
+
+) (c:/texlive/2019/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/fundus-calligra/calligra.sty
+Package: calligra 2012/04/10 v1.9 LaTeX package calligra
+)
+(c:/texlive/2019/texmf-dist/tex/latex/ccicons/ccicons.sty
+Package: ccicons 2017/10/30 v1.6 LaTeX support for Creative Commons icons
+)
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/hologo.sty
+Package: hologo 2017/05/01 v1.13 A logo collection with bookmark support (HO)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2018/12/21 v0.69 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(c:/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+(c:/texlive/2019/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+(c:/texlive/2019/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+)
+(c:/texlive/2019/texmf-dist/tex/generic/pstricks/pstricks.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count368
+\pstFP@xia=\count369
+\pstFP@xib=\count370
+\pstFP@xfa=\count371
+\pstFP@xfb=\count372
+\pstFP@rega=\count373
+\pstFP@regb=\count374
+\pstFP@regs=\count375
+\pstFP@times=\count376
+)
+\psLoopIndex=\count377
+
+`PSTricks' v2.96  <2019/02/23> (tvz,hv)
+\pst@dima=\dimen336
+\pst@dimb=\dimen337
+\pst@dimc=\dimen338
+\pst@dimd=\dimen339
+\pst@dimg=\dimen340
+\pst@dimh=\dimen341
+\pst@dimm=\dimen342
+\pst@dimn=\dimen343
+\pst@dimo=\dimen344
+\pst@dimp=\dimen345
+\pst@hbox=\box104
+\pst@ibox=\box105
+\pst@boxg=\box106
+\pst@cnta=\count378
+\pst@cntb=\count379
+\pst@cntc=\count380
+\pst@cntd=\count381
+\pst@cntg=\count382
+\pst@cnth=\count383
+\pst@cntm=\count384
+\pst@cntn=\count385
+\pst@cnto=\count386
+\pst@cntp=\count387
+\@zero=\count388
+\pst@toks=\toks53
+(c:/texlive/2019/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
+(c:/texlive/2019/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg))
+\psunit=\dimen346
+\psxunit=\dimen347
+\psyunit=\dimen348
+\pst@C@@rType=\count389
+\pslinewidth=\dimen349
+\psk@startLW=\dimen350
+\psk@endLW=\dimen351
+\pst@customdefs=\toks54
+\pslinearc=\dimen352
+\pst@symbolStep=\dimen353
+\pst@symbolWidth=\dimen354
+\pst@symbolLinewidth=\dimen355
+\everypsbox=\toks55
+\psframesep=\dimen356
+\pslabelsep=\dimen357
+\sh@wgridXunit=\dimen358
+\sh@wgridYunit=\dimen359
+\pst@shift=\dimen360
+
+(c:/texlive/2019/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
+(c:/texlive/2019/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg
+Using PSTricks configuration for XeTeX+xdvipdfmx
+)))
+File: pstricks.tex 2019/02/23 v2.96 `PSTricks' (tvz,hv)
+ (c:/texlive/2019/texmf-dist/tex/generic/pstricks/pst-fp.tex)
+File: pst-fp.tex 2019/02/23 v2.96 `PST-fp' (hv)
+
+>>> Loading XeTeX special macros
+(c:/texlive/2019/texmf-dist/tex/generic/pstricks/pstricks-xetex.def))
+(c:/texlive/2019/texmf-dist/tex/latex/pst-node/pst-node.sty
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+
+(c:/texlive/2019/texmf-dist/tex/generic/pst-node/pst-node.tex
+ v1.42, 2019/03/03
+\psrow=\count390
+\pscol=\count391
+\psmatrixcnt=\count392
+\psrowsep=\skip78
+\pscolsep=\skip79
+\pst@args=\count393
+\num@pts=\count394
+\pst@argcnt=\count395
+)
+File: pst-node.tex 2019/03/03 1.42 `pst-node' (tvz,hv)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty
+Package: hyperxmp 2019/04/05 v4.1 Store hyperref metadata in XMP format
+
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/atenddvi.sty
+Package: atenddvi 2016/05/16 v1.2 At end DVI hook (HO)
+
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+Package: zref-abspage 2018/11/21 v2.27 Module abspage for zref (HO)
+
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/zref-base.sty
+Package: zref-base 2018/11/21 v2.27 Module base for zref (HO)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+\c@abspage=\count396
+Package zref Info: New property: abspage on input line 62.
+)
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/zref-lastpage.sty
+Package: zref-lastpage 2018/11/21 v2.27 Module lastpage for zref (HO)
+Package zref Info: New property list: LastPage on input line 55.
+))
+(c:/texlive/2019/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+))
+(c:/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen361
+\lightrulewidth=\dimen362
+\cmidrulewidth=\dimen363
+\belowrulesep=\dimen364
+\belowbottomsep=\dimen365
+\aboverulesep=\dimen366
+\abovetopsep=\dimen367
+\cmidrulesep=\dimen368
+\cmidrulekern=\dimen369
+\defaultaddspace=\dimen370
+\@cmidla=\count397
+\@cmidlb=\count398
+\@aboverulesep=\dimen371
+\@belowrulesep=\dimen372
+\@thisruleclass=\count399
+\@lastruleclass=\count400
+\@thisrulewidth=\dimen373
+)
+(c:/texlive/2019/texmf-dist/tex/latex/qrcode/qrcode.sty
+Package: qrcode 2015/01/08 v1.51 QR code generation
+\c@qr@i=\count401
+\c@qr@j=\count402
+\qr@a=\count403
+\qr@b=\count404
+\qr@c=\count405
+\qr@for@depth=\count406
+\qr@for@maxdepth=\count407
+\qr@for@start=\count408
+\qr@for@end=\count409
+\qr@for@step=\count410
+\qr@newforcount=\count411
+\qr@newforcount=\count412
+\qr@desiredheight=\skip80
+\qr@modulesize=\skip81
+\qr@minipagewidth=\skip82
+\c@maski=\count413
+\c@maskj=\count414
+\c@totalones=\count415
+\c@penaltyi=\count416
+\c@penaltyii=\count417
+\c@penaltyiii=\count418
+\c@penaltyiv=\count419
+\c@qr@hexchars=\count420
+\qr@newforcount=\count421
+\c@qr@divisionsremaining=\count422
+)
+(c:/texlive/2019/texmf-dist/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(c:/texlive/2019/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/sl' in size <10.95> not availabl
+e
+(Font)              Font shape `TU/Roboto(0)/m/it' tried instead on input line 
+316.
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 316.
+Requested font "[Roboto-Italic.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;ma
+pping=tex-text;" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf
+LaTeX Font Info:    Font shape `TU/Roboto(0)/bx/n' will be
+(Font)              scaled to size 10.95pt on input line 356.
+Requested font "[Roboto-Bold.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;mapp
+ing=tex-text;" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+Requested font "[FandolHei-Regular.otf]/OT" at 10.94997pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/fandol/FandolHei-Regular.o
+tf
+Requested font "[FandolHei-Regular.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/fandol/FandolHei-Regular.o
+tf
+
+
+Package fontspec Warning: Font "FandolHei-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+Requested font "[FandolHei-Bold.otf]/OT" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/fandol/FandolHei-Bold.otf
+
+Package fontspec Info: Font family 'FandolHei-Regular(0)' created for font
+(fontspec)             'FandolHei-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolHei-Bold}
+].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolHei-Regular.otf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[FandolHei-Bold.otf]/OT"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+
+) (c:/texlive/2019/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+)))
+(c:/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count423
+\mult@box=\box107
+\multicol@leftmargin=\dimen374
+\c@unbalance=\count424
+\c@collectmore=\count425
+\doublecol@number=\count426
+\multicoltolerance=\count427
+\multicolpretolerance=\count428
+\full@width=\dimen375
+\page@free=\dimen376
+\premulticols=\dimen377
+\postmulticols=\dimen378
+\multicolsep=\skip83
+\multicolbaselineskip=\skip84
+\partial@page=\box108
+\last@line=\box109
+\maxbalancingoverflow=\dimen379
+\mult@rightbox=\box110
+\mult@grightbox=\box111
+\mult@gfirstbox=\box112
+\mult@firstbox=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\@tempa=\box130
+\c@columnbadness=\count429
+\c@finalcolumnbadness=\count430
+\last@try=\dimen380
+\multicolovershoot=\dimen381
+\multicolundershoot=\dimen382
+\mult@nat@firstbox=\box131
+\colbreak@box=\box132
+\mc@col@check@num=\count431
+)
+(c:/texlive/2019/texmf-dist/tex/latex/stackengine/stackengine.sty
+Package: stackengine 2017/02/13 v4.01\ Stacking text and objects in convenient 
+ways
+
+(c:/texlive/2019/texmf-dist/tex/generic/listofitems/listofitems.sty
+(c:/texlive/2019/texmf-dist/tex/generic/listofitems/listofitems.tex
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 90 replaced by U+FFFD.
+\loi_cnt_foreach_nest=\count432
+Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 139 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 202 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 202 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 212 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 212 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 213 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 215 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 215 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 227 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 232 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 232 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 246 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 260 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 290 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 290 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 317 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 317 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 319 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 330 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 330 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 330 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 334 replaced by U+FFFD.
+\loi_nestcnt=\count433
+Invalid UTF-8 byte or sequence at line 347 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 347 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 347 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 347 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 353 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 376 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 376 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 376 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 376 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 376 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 376 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 386 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 387 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 387 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 387 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 387 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 388 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 388 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 388 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 388 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 388 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 388 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 391 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 405 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 416 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 416 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 417 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 418 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 421 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 421 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 421 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 423 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 423 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 425 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 426 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 430 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 430 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 433 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 433 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 445 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 448 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 465 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 481 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 481 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 482 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 482 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 492 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 514 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 514 replaced by U+FFFD.
+)
+Package: listofitems 2019/03/03 v1.61 Grab items in lists using user-specified 
+sep char (CT)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count434
+\calc@Bcount=\count435
+\calc@Adimen=\dimen383
+\calc@Bdimen=\dimen384
+\calc@Askip=\skip85
+\calc@Bskip=\skip86
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count436
+\calc@Cskip=\skip87
+)
+\c@@stackindex=\count437
+\@boxshift=\skip88
+\stack@tmplength=\skip89
+\temp@stkl=\skip90
+\@stackedboxwidth=\skip91
+\@addedbox=\box133
+\@anchorbox=\box134
+\stackedbox=\box135
+\@centerbox=\box136
+\c@ROWcellindex@=\count438
+)
+(c:/texlive/2019/texmf-dist/tex/latex/fontawesome/fontawesome.sty
+Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+
+(c:/texlive/2019/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.te
+x)
+Requested font "FontAwesome" at 10.94997pt
+ -> C:/texlive/2019/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.ot
+f
+Requested font "FontAwesome/OT" at 10.95pt
+ -> C:/texlive/2019/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.ot
+f
+Requested font "FontAwesome/OT" at 10.95001pt
+ -> C:/texlive/2019/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.ot
+f
+Requested font "FontAwesome/BI/OT" at 10.95001pt
+ -> C:/texlive/2019/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.ot
+f
+
+Package fontspec Info: Could not resolve font "FontAwesome/BI" (it probably
+(fontspec)             doesn't exist).
+
+Requested font "FontAwesome/B/OT" at 10.95001pt
+ -> C:/texlive/2019/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.ot
+f
+
+Package fontspec Info: Could not resolve font "FontAwesome/B" (it probably
+(fontspec)             doesn't exist).
+
+Requested font "FontAwesome/I/OT" at 10.95001pt
+ -> C:/texlive/2019/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.ot
+f
+
+Package fontspec Info: Could not resolve font "FontAwesome/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'FontAwesome(0)' created for font
+(fontspec)             'FontAwesome' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"FontAwesome/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+(c:/texlive/2019/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.t
+ex))
+Requested font "Times New Roman" at 10.94997pt
+ -> C:/Windows/fonts/times.ttf
+Requested font "Times New Roman/OT" at 10.95pt
+ -> C:/Windows/fonts/times.ttf
+Requested font "Times New Roman/OT" at 10.95001pt
+ -> C:/Windows/fonts/times.ttf
+Requested font "Times New Roman/BI/OT" at 10.95001pt
+ -> C:/Windows/fonts/timesbi.ttf
+Requested font "Times New Roman/B/OT" at 10.95001pt
+ -> C:/Windows/fonts/timesbd.ttf
+Requested font "Times New Roman/I/OT" at 10.95001pt
+ -> C:/Windows/fonts/timesi.ttf
+Requested font "Times New Roman/B/OT" at 10.95pt
+ -> C:/Windows/fonts/timesbd.ttf
+Requested font "Times New Roman/B/OT" at 10.95pt
+ -> C:/Windows/fonts/timesbd.ttf
+Requested font "Times New Roman/I/OT" at 10.95pt
+ -> C:/Windows/fonts/timesi.ttf
+Requested font "Times New Roman/I/OT" at 10.95pt
+ -> C:/Windows/fonts/timesi.ttf
+Requested font "Times New Roman/BI/OT" at 10.95pt
+ -> C:/Windows/fonts/timesbi.ttf
+Requested font "Times New Roman/BI/OT" at 10.95pt
+ -> C:/Windows/fonts/timesbi.ttf
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=DFLT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=DFLT;+smcp;"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=DFLT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Times
+(fontspec)             New Roman/B/OT:script=latn;language=DFLT;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=DFLT;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=DFLT;+smcp;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=DFLT;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=DFLT;+smcp;"
+
+
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKsfdefault'
+(xeCJK)                (FandolHei-Regular(0)).
+
+Requested font "[Fonts/wqy-microhei.ttc]/OT" at 10.94997pt
+ -> ./Fonts/wqy-microhei.ttc
+Requested font "[Fonts/wqy-microhei.ttc]/OT" at 10.95pt
+ -> ./Fonts/wqy-microhei.ttc
+
+Package fontspec Warning: Font "wqy-microhei" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'wqy-microhei.ttc(0)' created for font
+(fontspec)             'wqy-microhei.ttc' with options
+(fontspec)             [Script={CJK},Path={Fonts/}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[Fonts/wqy-microhei.ttc]/OT:script=latn;language=DFL
+T;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[Fonts/wqy-microhei.ttc]/OT:script=latn;language=DFL
+T;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[Fonts/wqy-microhei.ttc]/OT:script=latn;language=DFL
+T;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->"[Fonts/wqy-microhei.ttc]/OT:script=latn;language=DFL
+T;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKttdefault'
+(xeCJK)                (FandolFang-Regular).
+
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2019/02/27 1.8b listings language file
+)
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2019/02/27 1.8b listings language file
+)
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2019/02/27 1.8b listings language file
+)
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2019/02/27 1.8b listings language file
+)
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2019/02/27 1.8b listings language file
+)
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2019/02/27 1.8b listings language file
+)
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+)
+Package Listings Info: Made | a short reference for \lstinline on input line 13
+6.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 142.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 142.
+
+(c:/texlive/2019/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+Package: xeCJK-listings 2019/04/07 v3.7.2 xeCJK patch file for listings
+\l__xeCJK_listings_max_char_int=\count439
+\l__xeCJK_listings_flag_int=\count440
+)
+(./latextalk.aux (./introduction.aux) (./basis.aux) (./thuthesis.aux)
+(./summary.aux)
+<Reading QR code for "https://github.com/TingliangZhang/LatexTalk/blob/master/l
+atex-talk.pdf" at level 5-M from aux file.>
+)
+\openout1 = `latextalk.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 173.
+LaTeX Font Info:    ... okay on input line 173.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 173.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 173.
+ (c:/texlive/2019/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 173.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 173.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(28.45274pt, 398.3386pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 256.0748pt, 0.0pt)
+* \paperwidth=455.24408pt
+* \paperheight=256.0748pt
+* \textwidth=398.3386pt
+* \textheight=227.62207pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box137
+Package hyperref Info: Link coloring OFF on input line 173.
+
+(c:/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count441
+)
+LaTeX Info: Redefining \ref on input line 173.
+LaTeX Info: Redefining \pageref on input line 173.
+LaTeX Info: Redefining \nameref on input line 173.
+
+(./latextalk.out) (./latextalk.out)
+\@outlinefile=\write7
+\openout7 = `latextalk.out'.
+
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 173.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 173.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/Roboto(0)/m/n on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/Roboto(0)/m/n on input line 173.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/m/it on input line 173.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 173.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 173.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  TU/lmr/m/it --> TU/lmr/bx/it on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  TU/lmr/bx/n --> TU/lmr/bx/n on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  TU/Roboto(0)/m/n --> TU/Roboto(0)/bx/n on input line 17
+3.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  TU/lmr/m/it --> TU/lmr/bx/it on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  TU/lmtt/m/n --> TU/lmtt/bx/n on input line 173.
+
+(c:/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dictionary-En
+glish.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(c:/texlive/2019/texmf-dist/tex/latex/translator/translator-bibliography-dictio
+nary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(c:/texlive/2019/texmf-dist/tex/latex/translator/translator-environment-diction
+ary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(c:/texlive/2019/texmf-dist/tex/latex/translator/translator-months-dictionary-E
+nglish.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(c:/texlive/2019/texmf-dist/tex/latex/translator/translator-numbers-dictionary-
+English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(c:/texlive/2019/texmf-dist/tex/latex/translator/translator-theorem-dictionary-
+English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+(c:/texlive/2019/texmf-dist/tex/latex/ctex/dictionary/translator-theorem-dictio
+nary-ChineseUTF8.dict
+Dictionary: translator-theorem-dictionary, Language: ChineseUTF8 2019/04/07 v2.
+4.15 Chinese translation for theorem name (CTEX)
+)
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 173.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 173.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 173.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 173.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 173.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 173.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 173.
+LaTeX Font Info:    Redeclaring math accent \check on input line 173.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 173.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 173.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 173.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 173.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 173.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 173.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 173.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 173.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 173.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 173.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  TU/lmr/m/it --> TU/lmr/m/it on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  TU/lmr/bx/n --> TU/lmr/bx/n on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  TU/Roboto(0)/m/n --> TU/Roboto(0)/m/n on input line 173
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  TU/lmtt/m/n --> TU/lmtt/m/n on input line 173.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  TU/lmr/bx/it --> TU/lmr/bx/it on input line 173.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  TU/Roboto(0)/bx/n --> TU/Roboto(0)/bx/n on input line 1
+73.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  TU/lmtt/bx/n --> TU/lmtt/bx/n on input line 173.
+\c@lstlisting=\count442
+ (c:/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks56
+\inpenc@posthook=\toks57
+) (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/se-pdfdoc.def
+File: se-pdfdoc.def 2016/05/16 v1.11 stringenc: PDFDocEncoding
+)
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/se-utf32be.def
+File: se-utf32be.def 2016/05/16 v1.11 stringenc: UTF-32BE
+)
+(./latextalk.nav)
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 173.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;m
+apping=tex-text;" at 6.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 24.88pt on input line 177.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;m
+apping=tex-text;" at 24.88pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+Requested font "[Fonts/wqy-microhei.ttc]/OT:script=latn;language=DFLT;" at 24.8
+8pt
+ -> ./Fonts/wqy-microhei.ttc
+Requested font "[lmroman17-regular]:mapping=tex-text;" at 24.88pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf
+Requested font "[lmroman17-regular]:mapping=tex-text;" at 20.74pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf
+Requested font "[lmroman17-regular]:mapping=tex-text;" at 17.28pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf
+Requested font "cmmi12" at 24.88pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+Requested font "cmmi12" at 20.74pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+Requested font "cmmi12" at 17.28pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+Requested font "cmsy10" at 24.88pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+Requested font "cmsy10" at 20.74pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+Requested font "cmsy10" at 17.28pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+Requested font "cmex10" at 24.88pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+Requested font "cmex10" at 20.74pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+Requested font "cmex10" at 17.28pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+LaTeX Font Info:    Try loading font information for U+msa on input line 177.
+ (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+Requested font "msam10" at 24.88pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam10" at 20.74pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam10" at 17.28pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+LaTeX Font Info:    Try loading font information for U+msb on input line 177.
+
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Requested font "msbm10" at 24.88pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm10" at 20.74pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm10" at 17.28pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "[lmroman12-italic]:mapping=tex-text;" at 24.88pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman12-italic.otf
+Requested font "[lmroman12-italic]:mapping=tex-text;" at 20.74pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman12-italic.otf
+Requested font "[lmroman12-italic]:mapping=tex-text;" at 17.28pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman12-italic.otf
+Requested font "cmr17" at 24.88pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+Requested font "cmr17" at 20.74pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+Requested font "cmr17" at 17.28pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 20.74pt on input line 177.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;m
+apping=tex-text;" at 20.74pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+File: fig/FutureInteraction.png Graphic file (type bmp)
+<fig/FutureInteraction.png>
+Requested font "[Fonts/wqy-microhei.ttc]/OT:script=latn;language=DFLT;" at 10.9
+5pt
+ -> ./Fonts/wqy-microhei.ttc
+
+
+Package fontspec Warning: Font "wqy-microhei" does not contain requested
+(fontspec)                Script "CJK".
+
+Requested font "[lmmono10-regular]:" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf
+
+Overfull \vbox (5.0pt too high) detected at line 177
+ []
+
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 4.0pt on input line 177.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;m
+apping=tex-text;" at 4.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+[1
+
+] (./latextalk.toc
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;m
+apping=tex-text;" at 10.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+Requested font "[lmroman8-regular]:mapping=tex-text;" at 8.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf
+Requested font "[lmroman6-regular]:mapping=tex-text;" at 6.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf
+Requested font "cmmi10" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+Requested font "cmmi8" at 8.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+Requested font "cmmi6" at 6.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+Requested font "cmsy10" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+Requested font "cmsy8" at 8.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+Requested font "cmsy6" at 6.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+Requested font "cmex10" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+Requested font "cmex8" at 8.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+Requested font "cmex7" at 6.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+Requested font "msam10" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam10" at 8.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam7" at 6.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msbm10" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm10" at 8.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm7" at 6.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+Requested font "[lmroman10-italic]:mapping=tex-text;" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf
+Requested font "[lmroman8-italic]:mapping=tex-text;" at 8.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman8-italic.otf
+Requested font "[lmroman7-italic]:mapping=tex-text;" at 6.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman7-italic.otf
+Requested font "cmr10" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+Requested font "cmr8" at 8.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+Requested font "cmr6" at 6.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 2.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;m
+apping=tex-text;" at 8.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/sc' will be
+(Font)              scaled to size 10.95pt on input line 8.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;+
+smcp;mapping=tex-text;" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+)
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 182.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;m
+apping=tex-text;" at 12.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+Requested font "[Fonts/wqy-microhei.ttc]/OT:script=latn;language=DFLT;" at 12.0
+pt
+ -> ./Fonts/wqy-microhei.ttc
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [2
+
+]
+\openout2 = `introduction.aux'.
+
+ (./introduction.tex (./latextalk.toc)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [3
+
+
+]
+\openout4 = `latextalk.vrb'.
+
+
+(./latextalk.vrb
+LaTeX Font Info:    Try loading font information for T3+Roboto(0) on input line
+ 5.
+LaTeX Font Info:    No file T3Roboto(0).fd. on input line 5.
+
+
+LaTeX Font Warning: Font shape `T3/Roboto(0)/m/n' undefined
+(Font)              using `T3/cmr/m/n' instead on input line 5.
+
+Requested font "tipa10" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/tipa/tipa10.tfm
+Requested font "[lmroman5-regular]:mapping=tex-text;" at 5.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman5-regular.otf
+Requested font "cmex7" at 5.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+Requested font "msam5" at 5.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+Requested font "msbm5" at 5.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+Requested font "[lmroman7-italic]:mapping=tex-text;" at 5.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman7-italic.otf
+Requested font "[Fonts/wqy-microhei.ttc]/OT:script=latn;language=DFLT;" at 10.0
+pt
+ -> ./Fonts/wqy-microhei.ttc
+Missing character: There is no ̌ in font [Roboto-Regular.otf]/OT:script=latn;la
+nguage=DFLT;+pnum;+lnum;mapping=tex-text;!
+Missing character: There is no ̌ in font [Roboto-Regular.otf]/OT:script=latn;la
+nguage=DFLT;+pnum;+lnum;mapping=tex-text;!
+Missing character: There is no ̌ in font [Roboto-Regular.otf]/OT:script=latn;la
+nguage=DFLT;+pnum;+lnum;mapping=tex-text;!
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 22.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;+
+smcp;mapping=tex-text;" at 10.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+File: fig/Knuth.jpg Graphic file (type bmp)
+<fig/Knuth.jpg>
+File: fig/Lamport.jpg Graphic file (type bmp)
+<fig/Lamport.jpg>
+)
+Requested font "[lmroman12-regular]:mapping=tex-text;" at 12.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf
+Requested font "cmmi12" at 12.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+Requested font "cmsy10" at 12.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+Requested font "cmex10" at 12.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+Requested font "msam10" at 12.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msbm10" at 12.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "[lmroman12-italic]:mapping=tex-text;" at 12.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman12-italic.otf
+Requested font "cmr12" at 12.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [4
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [5
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [6
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [7
+
+]
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 166.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 166
+.
+
+File: fig/dtmf.pdf Graphic file (type pdf)
+<use fig/dtmf.pdf>
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+[8
+
+]
+File: fig/references.pdf Graphic file (type pdf)
+<use fig/references.pdf>
+File: fig/shapepar.pdf Graphic file (type pdf)
+<use fig/shapepar.pdf>
+
+Overfull \vbox (4.14725pt too high) detected at line 183
+ []
+
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+[9
+
+]
+File: fig/slides-powerdot.pdf Graphic file (type pdf)
+<use fig/slides-powerdot.pdf>
+File: fig/slides-beamer.pdf Graphic file (type pdf)
+<use fig/slides-beamer.pdf>
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [10
+
+] (./latextalk.toc)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [11
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [12
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 9.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;m
+apping=tex-text;" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+Requested font "[lmmono9-regular]:" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmmono9-regular.otf
+Requested font "[lmroman9-regular]:mapping=tex-text;" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf
+Requested font "cmmi9" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+Requested font "cmsy9" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
+Requested font "cmex9" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
+Requested font "msam10" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msbm10" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "[lmroman9-italic]:mapping=tex-text;" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman9-italic.otf
+Requested font "cmr9" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+Requested font "[lmmono10-regular]:" at 10.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf
+Requested font "[lmroman10-regular]:mapping=tex-text;" at 10.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf
+Requested font "[lmroman7-regular]:mapping=tex-text;" at 7.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman7-regular.otf
+Requested font "cmex7" at 7.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+Requested font "msam10" at 10.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam7" at 7.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msbm10" at 10.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm7" at 7.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+Requested font "[lmroman10-italic]:mapping=tex-text;" at 10.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf
+Requested font "[lmroman7-italic]:mapping=tex-text;" at 7.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmroman7-italic.otf
+
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2019/02/27 1.8b listings language file
+)
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2019/02/27 1.8b listings language file
+))
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [13
+
+]
+\openout4 = `latextalk.vrb'.
+
+
+(./latextalk.vrb
+Requested font "[Fonts/wqy-microhei.ttc]/OT:script=latn;language=DFLT;" at 9.0p
+t
+ -> ./Fonts/wqy-microhei.ttc
+)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [14
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+(c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <9> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 6.
+Requested font "[lmmonolt10-bold]:" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmmonolt10-bold.otf
+)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [15
+
+]
+\openout4 = `latextalk.vrb'.
+
+
+(./latextalk.vrb
+Requested font "FontAwesome/OT" at 10.0pt
+ -> C:/texlive/2019/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.ot
+f
+)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [16
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [17
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [18
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [19
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 8.
+Requested font "[lmmonolt10-bold]:" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmmonolt10-bold.otf
+Requested font "[lmmonoslant10-regular]:" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmmonoslant10-regular.o
+tf
+LaTeX Font Info:    Font shape `TU/wqy-microhei.ttc(0)/m/sl' in size <10.95> no
+t available
+(Font)              Font shape `TU/wqy-microhei.ttc(0)/m/it' tried instead on i
+nput line 8.
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolSong-Regular(1)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold
+}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+
+)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [20
+
+])
+\openout2 = `basis.aux'.
+
+ (./basis.tex (./latextalk.toc)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [21
+
+
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 17.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;m
+apping=tex-text;" at 7.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [22
+
+]
+\openout4 = `latextalk.vrb'.
+
+
+(./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [23
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [24
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb
+Requested font "[FandolSong-Regular.otf]/OT" at 10.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/fandol/FandolSong-Regular.
+otf
+Requested font "[FandolHei-Regular.otf]/OT" at 9.99997pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/fandol/FandolHei-Regular.o
+tf
+Requested font "[FandolHei-Regular.otf]/OT" at 10.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/fandol/FandolHei-Regular.o
+tf
+
+
+Package fontspec Warning: Font "FandolHei-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+)
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 97.
+Requested font "[Roboto-Italic.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;ma
+pping=tex-text;" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [25
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [26
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [27
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [28
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 4.
+Requested font "[lmmonolt10-bold]:" at 10.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmmonolt10-bold.otf
+)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+
+[29
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [30
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb
+LaTeX Font Info:    Font shape `TU/Roboto(0)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 6.
+Requested font "[Roboto-Bold.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;mapp
+ing=tex-text;" at 10.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 14.
+Requested font "[Roboto-Italic.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;ma
+pping=tex-text;" at 10.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/it' will be
+(Font)              scaled to size 7.0pt on input line 14.
+Requested font "[Roboto-Italic.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;ma
+pping=tex-text;" at 7.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf
+)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [31
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/sl' in size <10> not available
+(Font)              Font shape `TU/Roboto(0)/m/it' tried instead on input line 
+6.
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 6.
+Requested font "[lmmonoslant10-regular]:" at 10.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmmonoslant10-regular.o
+tf
+LaTeX Font Info:    Font shape `TU/wqy-microhei.ttc(0)/m/sl' in size <10> not a
+vailable
+(Font)              Font shape `TU/wqy-microhei.ttc(0)/m/it' tried instead on i
+nput line 6.
+)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [32
+
+]
+\openout4 = `latextalk.vrb'.
+
+
+(./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [33
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/sl' in size <9> not available
+(Font)              Font shape `TU/Roboto(0)/m/it' tried instead on input line 
+15.
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 15.
+Requested font "[lmmonoslant10-regular]:" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmmonoslant10-regular.o
+tf
+File: fig/libicon.pdf Graphic file (type pdf)
+<use fig/libicon.pdf>
+Requested font "[FandolHei-Regular.otf]/OT" at 9.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/public/fandol/FandolHei-Regular.o
+tf
+)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [34
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [35
+
+]
+\openout4 = `latextalk.vrb'.
+
+
+(./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [36
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [37
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb)
+LaTeX Font Info:    Font shape `TU/Roboto(0)/bx/n' will be
+(Font)              scaled to size 12.0pt on input line 502.
+Requested font "[Roboto-Bold.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;mapp
+ing=tex-text;" at 12.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [38
+
+]
+(./latextalk.toc)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [39
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [40
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [41
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [42
+
+])
+\openout2 = `thuthesis.aux'.
+
+ (./thuthesis.tex
+(./latextalk.toc)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [43
+
+
+
+]
+File: fig/cover-bachelor-crop.pdf Graphic file (type pdf)
+<use fig/cover-bachelor-crop.pdf>
+File: fig/cover-master-crop.pdf Graphic file (type pdf)
+<use fig/cover-master-crop.pdf>
+File: fig/cover-doctor-crop.pdf Graphic file (type pdf)
+<use fig/cover-doctor-crop.pdf>
+File: fig/cover-postdoctor-crop.pdf Graphic file (type pdf)
+<use fig/cover-postdoctor-crop.pdf>
+LaTeX Font Info:    Font shape `TU/Roboto(0)/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 20.
+Requested font "[Roboto-Regular.otf]/OT:script=latn;language=DFLT;+pnum;+lnum;+
+smcp;mapping=tex-text;" at 12.0pt
+ -> c:/texlive/2019/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [44
+
+]
+File: fig/thuthesis-download.png Graphic file (type bmp)
+<fig/thuthesis-download.png>
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [45
+
+]
+\openout4 = `latextalk.vrb'.
+
+ (./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [46
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [47
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [48
+
+]
+\openout4 = `latextalk.vrb'.
+
+
+(./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [49
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [50
+
+])
+\openout2 = `summary.aux'.
+
+ (./summary.tex
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [51
+
+
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [52
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [53
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [54
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [55
+
+]
+\openout4 = `latextalk.vrb'.
+
+
+(./latextalk.vrb)
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [56
+
+]
+File: fig/TFZsuperellipse-crop.pdf Graphic file (type pdf)
+<use fig/TFZsuperellipse-crop.pdf>
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [57
+
+]
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+ [58
+
+])
+LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
+(Font)              scaled to size 10.95pt on input line 220.
+Requested font "ccicons" at 10.95pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/ccicons/ccicons.tfm
+
+
+
+<QR code requested for "https://github.com/TingliangZhang/LatexTalk/blob/master
+/latex-talk.pdf" in version 0-M.>
+
+<Copying the QR code for "https://github.com/TingliangZhang/LatexTalk/blob/mast
+er/latex-talk.pdf" in version 5-M as previously calculated.>
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+[59
+
+
+]
+LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
+(Font)              scaled to size 35.82726pt on input line 226.
+Requested font "callig15" at 35.82726pt
+ -> c:/texlive/2019/texmf-dist/fonts/tfm/public/calligra/callig15.tfm
+File: fig/Tsinghua.png Graphic file (type bmp)
+<fig/Tsinghua.png>
+Package atenddvi Info: Last page = 60.
+ [60
+
+]
+\tf@nav=\write8
+\openout8 = `latextalk.nav'.
+
+\tf@toc=\write9
+\openout9 = `latextalk.toc'.
+
+\tf@snm=\write10
+\openout10 = `latextalk.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 228.
+ (./latextalk.aux (./introduction.aux) (./basis.aux) (./thuthesis.aux) (./summa
+ry.aux)
+<Reading QR code for "https://github.com/TingliangZhang/LatexTalk/blob/master/l
+atex-talk.pdf" at level 5-M from aux file.>
+)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 228.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
+Package rerunfilecheck Info: File `latextalk.out' has not changed.
+(rerunfilecheck)             Checksum: 2D722FF4BC43EB06DE048AC7A544E7DE.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 54243 strings out of 492922
+ 1109538 string characters out of 6136751
+ 1504931 words of memory out of 5000000
+ 57147 multiletter control sequences out of 15000+600000
+ 548688 words of font info for 196 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 74i,12n,130p,1592b,33132s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on latextalk.xdv (60 pages, 1496268 bytes).
