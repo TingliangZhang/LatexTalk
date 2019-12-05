@@ -1,7 +1,7 @@
 *.pdf
 *.latexmain
 
-!texlive-talk.pdf
+!latextalk.pdf
 !fig/*.pdf
 
 *~
@@ -37,3 +37,4 @@ _minted-latex-talk/
 *.pyg.lst
 *.synctex.gz
 .latex
+latextalk.xdv
