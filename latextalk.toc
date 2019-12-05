@@ -1,9 +1,0 @@
-\beamer@sectionintoc {1}{简介}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{\hologoRobust {TeX}与 \hologoRobust {LaTeX}}{3}{0}{1}
-\beamer@subsectionintoc {1}{2}{安装}{11}{0}{1}
-\beamer@sectionintoc {2}{学术论文排版}{21}{0}{2}
-\beamer@subsectionintoc {2}{1}{\hologoRobust {LaTeX}{} 排版入门}{21}{0}{2}
-\beamer@subsectionintoc {2}{2}{论文模板使用}{39}{0}{2}
-\beamer@sectionintoc {3}{学位论文排版}{43}{0}{3}
-\beamer@subsectionintoc {3}{1}{\textsc {ThuThesis}\xspace 清华大学学位论文模板}{43}{0}{3}
-\beamer@sectionintoc {4}{总结}{51}{0}{4}

@@ -48,9 +48,20 @@
       \begin{itemize}
         \item 按钮的背后仍然是命令
         \item |PATH| 环境变量：确定可执行文件的位置
-        \item VS Code：配置 |tools| 和 |recipes|
+        \item VS Code：配置 |tools| 和 |recipes| 使用扩展 LaTeX Workshop
+    
       \end{itemize}
   \end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]{VS Code setting}
+  \begin{itemize}
+    \item "editor.fontSize": 16,
+    \item "editor.wordWrap": "on",
+    \item "latex-workshop.latex.autoBuild.run": "never"
+  \end{itemize}
+
+  
 \end{frame}
   
 
@@ -228,6 +239,8 @@ V = \frac{4}{3}\pi r^3
       \item 手写识别（不全）：Detexify \link{http://detexify.kirelabs.org}
     \end{itemize}
 \item MathType 也可以使用和导出 \LaTeX{} 公式（不推荐）
+\item Snip \link{https://mathpix.com/} 图片转 \LaTeX{} 公式 (推荐)
+\item tablesgenerator.com/ \link{http://www.tablesgenerator.com/} 等在线表格生成网站（表格部分乱入）
 \end{itemize}
 \end{frame}
 
@@ -312,20 +325,19 @@ V = \frac{4}{3}\pi r^3
 
   \begin{minipage}{0.7\linewidth}
     \begin{lstlisting}
-图书馆馆徽请参见图~\ref{fig:lib}。
+清华大学校徽请参见图~\ref{fig:lib}。
 \begin{figure}[htbp]
   \centering
-  \includegraphics[height=.2\textheight]%
-  {libicon.pdf}
-  \caption{图书馆馆徽。}
+  \includegraphics[height=.2\textheight]{Tsinghua.png}
+  \caption{清华大学校徽。}
   \label{fig:lib}
 \end{figure}
 \end{lstlisting}
   \end{minipage}\hfill
   \begin{minipage}{0.3\linewidth}\centering
-    {\songti 图书馆馆徽请参见图~1。}\\[1em]
- \includegraphics[height=0.2\textheight]{libicon.pdf}\\
- {\footnotesize\heiti 图~1. 图书馆馆徽。}
+    {\songti 清华大学校徽请参见图~1。}\\[1em]
+ \includegraphics[height=0.2\textheight]{Tsinghua.png}\\
+ {\footnotesize\heiti 图~1. 清华大学校徽。}
   \end{minipage}
 \end{frame}
 
