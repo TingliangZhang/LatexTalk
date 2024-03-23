@@ -1,0 +1,64 @@
+% !TeX encoding = UTF-8
+% !TeX program = latexmk
+% !TeX root = latex-talk.tex
+
+% fonts
+
+% For tipa to work.
+\defaultfontfeatures[TeX Gyre Termes]
+{
+  Extension      = .otf ,
+  UprightFont    = texgyretermes-regular,
+  BoldFont       = texgyretermes-bold,
+  ItalicFont     = texgyretermes-italic,
+  BoldItalicFont = texgyretermes-bolditalic,
+}
+\newfontfamily\useTIPAfont{TeX Gyre Termes}
+
+% xeCJK conf setup
+\renewcommand\CJKfamilydefault{\CJKsfdefault} % for slides
+
+\IfFontExistsTF{Noto Sans CJK SC}{
+    \setCJKsansfont{Noto Sans CJK SC}
+}{}
+\IfFontExistsTF{Noto Sans Mono CJK SC}{
+    \setCJKmonofont{Noto Sans Mono CJK SC}
+}{}
+
+
+% commands
+
+\renewcommand{\TeX}{\hologo{TeX}}
+\renewcommand{\LaTeX}{\hologo{LaTeX}}
+\newcommand{\BibTeX}{\hologo{BibTeX}}
+\newcommand{\XeTeX}{\hologo{XeTeX}}
+\newcommand{\pdfTeX}{\hologo{pdfTeX}}
+\newcommand{\LuaTeX}{\hologo{LuaTeX}}
+\renewcommand{\CTeX}{C\TeX}
+\newcommand{\MiKTeX}{\hologo{MiKTeX}}
+\newcommand{\MacTeX}{Mac\hologo{TeX}}
+\newcommand{\beamer}{\textsc{beamer}}
+\newcommand{\XeLaTeX}{\hologo{Xe}\kern-.13em\LaTeX{}}
+\newcommand{\pdfLaTeX}{pdf\LaTeX{}}
+\newcommand{\LuaLaTeX}{Lua\LaTeX{}}
+
+\def\TeXLive{\TeX{} Live\xspace}
+\let\TL=\TeXLive
+\newcommand{\TLVersion}{2024}
+\newcommand{\ThuThesis}{\textsc{ThuThesis}\xspace}
+\newcommand{\ThuThesisVersion}{7.4.0}
+\newcommand{\ThuThesisDate}{2023/05/15}
+\newcommand{\ThuThesisGuideVersion}{2023年3月}
+\newcommand{\ThuThesisRepo}{tuna/thuthesis}
+\newcommand{\ThuThesisLink}{https://github.com/\ThuThesisRepo}
+
+\newcommand{\surveylink}{\relax}
+\newcommand{\thudownloadlink}{https://github.com/TingliangZhang/LatexTalk/releases/}
+\newcommand{\githubrepo}{TingliangZhang/LatexTalk}
+\newcommand{\githublink}{https://github.com/\githubrepo}
+
+\newcommand{\printcurrenttoc}{
+  \begin{frame}<beamer>{目录}
+    \tableofcontents[currentsection,currentsubsection]
+  \end{frame}
+}

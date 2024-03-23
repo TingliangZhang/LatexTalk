@@ -1,0 +1,271 @@
+% !TeX encoding = UTF-8
+% !TeX program = latexmk
+% !TeX root = ../latex-talk.tex
+
+\begin{frame}[fragile]
+  \frametitle{引擎与格式}
+  \begin{itemize}
+    \item \textbf{引擎}：\TeX{} 的实现
+
+      \begin{itemize}
+        \item \pdfTeX{}：直接生成 PDF，支持 micro-typography
+        \item \XeTeX{}：支持 Unicode、OpenType 与复杂文字编排（CTL）
+        \item \LuaTeX{}：支持 Unicode，内联 Lua，支持 OpenType
+        \item (u)p\TeX{}：日本方面推动，生成 |.dvi|，（支持 Unicode）
+        \item Ap\TeX{}：底层 CJK 支持，内联 Ruby，Color Emoji
+      \end{itemize}
+
+    \item \textbf{格式}：\TeX{} 的语言扩展（命令封装）
+
+      \begin{itemize}
+        \item plain \TeX{}：Knuth 最早的实现，底层、细节较多
+        \item \LaTeX{}：排版科技类文章的事实标准，相对易用
+        \item Con\TeX t：基于 \LuaTeX{} 实现，便于实现高级功能
+      \end{itemize}
+
+    \item \textbf{程序}：引擎 + dump 后的格式代码
+
+      \begin{itemize}
+        \item \alert{英文文章：\pdfLaTeX{}、\XeLaTeX{} 或 \LuaLaTeX{}}
+        \item \alert{中文文章：\XeLaTeX{} 或 \LuaLaTeX{}}
+      \end{itemize}
+  \end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{编译}
+  \begin{itemize}
+    \item 现代 \TeX{} 引擎均可直接生成 PDF
+    \item 命令行
+
+      \begin{itemize}
+        \item |pdflatex|/|xelatex|/|lualatex| + |<文件名>[.tex]|
+        \item 多次编译：每次均需要读取并处理中间文件
+        \item 推荐 \pkg{latexmk}：运行 |latexmk [<选项>] <文件名>| 即可自动完成所有工作
+      \end{itemize}
+
+    \item 编辑器
+
+      \begin{itemize}
+        \item 按钮的背后仍然是命令
+        \item |PATH| 环境变量：确定可执行文件的位置
+        \item VS Code + \LaTeX{} Workshop：配置 |tools| 和 |recipes|
+      \end{itemize}
+  \end{itemize}
+\end{frame}
+
+
+\begin{frame}[fragile]{文件结构}
+  \lstset{language=[LaTeX]TeX}
+  \begin{lstlisting}[basicstyle=\ttfamily]
+\documentclass[a4paper]{ctexart}
+% 文档类型，如 ctexart，[]内是选项，如 a4paper
+% 这里开始是导言区
+\usepackage{graphicx} % 引用宏包
+\graphicspath{{fig/}} % 设置图片目录
+% 导言区到此为止
+\begin{document}
+这里开始是正文
+\end{document}
+  \end{lstlisting}
+\end{frame}
+
+\begin{frame}[fragile]{\LaTeX{}“命令”}
+  \framesubtitle{\emph{宏} (Macro)、或者\emph{控制序列} (control sequence)}
+\begin{itemize}
+\item 简单命令
+  \begin{itemize}
+    \item \verb|\命令|\hspace{2em}
+    \verb|{\songti 中国人民解放军}| ~$\Rightarrow$ {\songti 中国人民解放军}
+  \item \verb|\命令[可选参数]{必选参数}|\\
+\verb|\section[精简标题]{这个题目实在太长了放到目录里面不太好看}|\\
+$\Rightarrow$ {\heiti 1.1 \hspace{1em} \songti 这个题目实在太长了放到目录里面不太好看}
+  \end{itemize}
+\item 环境
+  \begin{columns}[c]
+  \begin{column}{0.45\textwidth}
+    \begin{lstlisting}[basicstyle=\ttfamily]
+\begin{equation*}
+  a^2-b^2=(a+b)(a-b)
+\end{equation*}
+\end{lstlisting}
+\end{column}\hspace{1em}
+  \begin{column}{0.45\textwidth}
+$ a^2-b^2=(a+b)(a-b)$
+\end{column}
+  \end{columns}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]{\LaTeX{} 常用命令}
+  \begin{exampleblock}{简单命令}
+\centering
+\footnotesize
+  \begin{tabular}{llll}
+    \cmd{chapter} & \cmd{section} & \cmd{subsection} & \cmd{paragraph} \\
+    章 & 节 & 小节 & 带题头段落 \\\hline
+    \cmd{centering} & \cmd{emph} & \cmd{verb} & \cmd{url} \\
+   居中对齐         &  强调      & 原样输出   & 超链接 \\\hline
+  \cmd{footnote} & \cmd{item} & \cmd{caption} & \cmd{includegraphics} \\
+   脚注 & 列表条目 & 标题 & 插入图片 \\\hline
+  \cmd{label} & \cmd{cite} & \cmd{ref} \\
+  标号 & 引用参考文献 & 引用图表公式等\\\hline
+  \end{tabular}
+\end{exampleblock}
+\end{frame}
+\begin{frame}[fragile]{\LaTeX{} 常用命令}
+\begin{exampleblock}{环境}
+\centering
+\footnotesize
+\begin{tabular}{lll}
+  \env{table} & \env{figure} & \env{equation}\\
+  表格 & 图片 & 公式 \\\hline
+  \env{itemize} & \env{enumerate} & \env{description}\\
+  无编号列表 & 编号列表 & 描述 \\\hline
+\end{tabular}
+\end{exampleblock}
+\end{frame}
+%
+\begin{frame}{\LaTeX{}命令举例}
+\cmdxmp{chapter}{前言}{\heiti 第 1 章\hspace{1em} 前言}
+\cmdxmp{section[精简标题]}{这个题目实在太长了放到目录里面不太好看}{\heiti 1.1
+  \hspace{1em} 这个题目实在太长了放到目录里面不太好看}
+\cmdxmp{footnote}{我是可爱的脚注}{前方高能\footnote{我是可爱的脚注}}
+\end{frame}
+
+\begin{frame}[fragile]{\LaTeX{} 环境举例}
+  \begin{minipage}{0.4\linewidth}
+    \begin{lstlisting}[basicstyle=\ttfamily\small]
+\begin{itemize}
+  \item 一条
+  \item 次条
+  \item 这一条可以分为 ...
+    \begin{itemize}
+      \item 子一条
+    \end{itemize}
+\end{itemize}
+\end{lstlisting}
+  \end{minipage}\hspace{1.5cm}
+  \begin{minipage}{0.4\linewidth}
+\begin{itemize}
+  \item 一条
+  \item 次条
+  \item 这一条可以分为 ...
+    \begin{itemize}
+      \item 子一条
+    \end{itemize}
+\end{itemize}
+  \end{minipage}
+\medskip
+
+  \begin{minipage}{0.4\linewidth}
+\begin{lstlisting}
+\begin{enumerate}
+  \item 一条
+  \item 次条
+  \item 再条
+\end{enumerate}
+\end{lstlisting}
+  \end{minipage}\hspace{1.5cm}
+  \begin{minipage}{0.4\linewidth}
+\begin{enumerate}
+  \item 一条
+  \item 次条
+  \item 再条
+\end{enumerate}
+  \end{minipage}
+\end{frame}
+%
+
+\begin{frame}[fragile]{\LaTeX{} 数学公式}
+
+\begin{columns}
+\begin{column}{.5\textwidth}
+\begin{lstlisting}[basicstyle=\ttfamily\small]
+$V = \frac{4}{3}\pi r^3$
+
+\[
+  V = \frac{4}{3}\pi r^3
+\]
+
+\begin{equation}
+\label{eq:vsphere}
+V = \frac{4}{3}\pi r^3
+\end{equation}
+\end{lstlisting}
+\end{column}
+
+\begin{column}{.5\textwidth}
+$V = \frac{4}{3}\pi r^3$
+
+\[
+  V = \frac{4}{3}\pi r^3
+\]
+
+\begin{equation}
+\label{eq:vsphere}
+V = \frac{4}{3}\pi r^3
+\end{equation}
+\end{column}
+\end{columns}
+
+\end{frame}
+
+\begin{frame}[fragile]{\LaTeX{} 数学公式}
+\begin{itemize}
+\item 数学公式排版是 \LaTeX{} 的绝对强项
+\item 数学排版需要进入数学模式，引用 \texttt{amsmath} 宏包
+	\begin{itemize}
+	\item 用单个美元符号(\verb|$|) 包围起来的内容是 {\bf 行内公式}
+  \item 用两个美元符号(\verb|$$|) （不推荐）或 \verb|\[ \]| 包围起来的是 {\bf 单行公式} 或 {\bf 行间公式}
+	\item 使用数学环境，例如 \texttt{equation} 环境内的公式会自动加上编号，
+		\texttt{align} 环境用于多行公式（例如方程组、多个并列条件等）
+  \end{itemize}
+\item 寻找符号
+    \begin{itemize}
+      \item 运行 \texttt{texdoc symbols} 查看符号表
+      \item S. Pakin. \emph{The Comprehensive \LaTeX{} Symbol List}
+            \link{https://ctan.org/pkg/comprehensive}
+      \item 手写识别（有用但不全面）：Detexify \link{http://detexify.kirelabs.org}
+    \end{itemize}
+\item MathType 也可以使用和导出 \LaTeX{} 公式（不推荐）
+\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile,label={frame:unicode-math}]{unicode-math：现代的数学输入方式}
+\LaTeX{} 的公式确实很强大，但是……符号有点难记？
+
+\pkg{unicode-math} 宏包提供了几乎所见即所得的公式输入(\ThuThesis 默认使用）：
+
+\begin{itemize}
+  \item 可直接输入各类符号对应的 Unicode 字符（需要使用 UTF-8 编码）：
+  \begin{align*}
+    𝐹(𝑠) &= ℒ\{𝑓(𝑡)\} = ∫_0^∞ e^{−𝑠𝑡} 𝑓(𝑡) d𝑡 \\
+    𝐁 &= 𝜇_0(𝐌 + 𝐇)
+  \end{align*}
+  \item 使用 |symbf| 等命令自动处理字母的粗体、斜体等变体，不必引入额外宏包。
+\end{itemize}
+
+\begin{columns}[c]
+  \begin{column}{0.45\textwidth}
+    \begin{lstlisting}[basicstyle=\ttfamily]
+\begin{align*}
+\symbf{\beta} &= \beta \symbf{I} \\
+\symbf{a} &= a \symbf{I}
+\end{align*}
+\end{lstlisting}
+\end{column}\hspace{1em}
+  \begin{column}{0.45\textwidth}
+  \begin{align*}
+      \symbf{\beta} &= \beta \symbf{I} \\
+      \symbf{a} &= a \symbf{I}
+  \end{align*}
+  \end{column}
+\end{columns}
+
+\end{frame}
+
+
+
+
+%%% vim: set ts=2 sts=2 sw=2 isk+=\: et tw=80 cc=+1 formatoptions+=mM:

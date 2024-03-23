@@ -1,0 +1,316 @@
+% !TeX encoding = UTF-8
+% !TeX program = latexmk
+% !TeX root = ../latex-talk.tex
+
+\begin{frame}[fragile]{层次与目录生成}
+    \begin{columns}
+    \begin{column}{.6\textwidth}
+    
+    \begin{lstlisting}[basicstyle=\ttfamily\small]
+    \tableofcontents % 这里是目录
+    \part{有监督学习}
+    \chapter{支持向量机}
+    \section{支持向量机简介}
+    \subsection{支持向量机的历史}
+    \subsubsection{支持向量机的诞生}
+    \paragraph{一些趣闻}
+    \subparagraph{第一个趣闻}
+    \end{lstlisting}
+    \end{column}
+    \begin{column}{.4\textwidth}
+    第一部分\quad 有监督学习\\
+    第一章\quad 支持向量机 \\
+    1. 支持向量机简介 \\
+    1.1 支持向量机的历史 \\
+    1.1.1 支持向量机的诞生 \\
+    一些趣闻  \\
+    第一个趣闻
+    \end{column}
+    \end{columns}
+    
+    \end{frame}
+    
+    
+    \begin{frame}[fragile]{列表与枚举}
+    \begin{columns}
+    \begin{column}{.6\textwidth}
+    \begin{lstlisting}[basicstyle=\ttfamily\small]
+    \begin{enumerate}
+    \item \LaTeX{} 好处都有啥
+      \begin{description}
+        \item[好用] 体验好才是真的好
+        \item[好看] 强迫症的福音
+        \item[开源] 众人拾柴火焰高
+      \end{description}
+    \item 还有呢?
+      \begin{itemize}
+        \item 好处 1
+        \item 好处 2
+      \end{itemize}
+    \end{enumerate}
+    \end{lstlisting}
+    \end{column}
+    \begin{column}{.4\textwidth}
+    {\small
+    \begin{enumerate}
+    \item \LaTeX{} 好处都有啥
+      \begin{description}
+        \item[好用] 体验好才是真的好
+        \item[好看] 治疗强迫症
+        \item[开源] 众人拾柴火焰高
+      \end{description}
+    \item 还有呢?
+      \begin{itemize}
+        \item 好处 1
+        \item 好处 2
+      \end{itemize}
+    \end{enumerate}
+    }
+    \end{column}
+    \end{columns}
+    
+    \end{frame}
+    
+    
+    \begin{frame}[fragile]{交叉引用与插入插图}
+      \begin{itemize}
+      \item 给对象命名：图片、表格、公式等\\
+      |\label{name}|
+    \item 引用对象\\
+      |\ref{name}|
+      \end{itemize}
+    \bigskip
+    
+      \begin{minipage}{0.7\linewidth}
+        \begin{lstlisting}
+    图书馆馆徽请参见图~\ref{fig:lib}。
+    \begin{figure}[htbp]
+      \centering
+      \includegraphics[height=.2\textheight]%
+      {libicon.pdf}
+      \caption{图书馆馆徽。}
+      \label{fig:lib}
+    \end{figure}
+    \end{lstlisting}
+      \end{minipage}\hfill
+      \begin{minipage}{0.3\linewidth}\centering
+        {\songti 未来交互Logo请参见图~1。}\\[1em]
+     \includegraphics[height=0.2\textheight]{FutureInteraction.pdf}\\
+     {\footnotesize\heiti 图~1. 未来交互Logo。}
+      \end{minipage}
+    \end{frame}
+    
+    \begin{frame}[fragile]{交叉引用与插入表格}
+      \begin{columns}
+      \column{.6\textwidth}
+      \begin{lstlisting}
+    \begin{table}[htbp]
+       \caption{编号与含义}
+       \label{tab:number}
+       \centering
+       \begin{tabular}{cl}
+         \toprule
+         编号 & 含义 \\
+         \midrule
+         1    & 第一 \\
+         2    & 第二 \\
+         \bottomrule
+       \end{tabular}
+    \end{table}
+    公式~(\ref{eq:vsphere}) 中编号与含义
+    请参见表~\ref{tab:number}。
+    \end{lstlisting}
+    \column{.4\textwidth}
+    \centering
+    {\small 表~1. 编号与含义}\\[2pt]
+    \begin{tabular}{cl}\toprule
+    编号 & 含义 \\\midrule
+    1 & 第一\\
+    2  & 第二\\\bottomrule
+    \end{tabular}\\[5pt]
+    
+    \normalsize 公式~(\ref{eq:vsphere})编号与含义请参见表~1。
+      \end{columns}
+    \end{frame}
+    
+    \begin{frame}[fragile]{浮动体}
+    \begin{itemize}
+    \item 初学者最“捉摸不透”的特性之一 \link{https://liam.page/2017/03/11/floats-in-LaTeX-basic}
+    \item 图片和表格有时会很大，在插入的位置不一定放得下，因此需要浮动调整
+    \item 避免在文中使用「下图」「上图」的说法，而是使用图表的编号，例如 |图~\ref{fig:fig1}| 。
+    \item |\begin{figure}[<位置>] 图片 \end{figure}|
+      \begin{itemize}
+      \item 位置参数指定浮动体摆放的偏好
+      \item |h| 当前位置(here), |t| 顶部(top), |b| 底部(bottom), |p| 单独成页(p)
+      \item |!h| 表示忽略一些限制，|H| 表示强制\alert{（强烈不建议，除非你知道自己在做什么）}
+      \end{itemize}
+    \item 温馨提示：图标题一般在下方，表标题一般在上方
+    \end{itemize}
+    \end{frame}
+    
+    \begin{frame}[fragile]
+      \frametitle{作图与插图}
+      \begin{itemize}
+        \item 外部插入
+    
+          \begin{itemize}
+            \item Mathematica、MATLAB
+            \item PowerPoint、Visio、Adobe Illustrator、Inkscape
+            \item Python \pkg{Matplotlib} 库、\texttt{Plots.jl}、R、Plotly 等
+            \item draw.io \link{https://draw.io/}、ProcessOn \link{https://www.processon.com/} 等在线绘图网站
+          \end{itemize}
+    
+        \item \TeX{} 内联
+    
+          \begin{itemize}
+            \item Asymptote
+            \item \alert{\pkg{pgf}/\pkg{TikZ}、\pkg{pgfplots}}
+          \end{itemize}
+    
+        \item 插图格式
+    
+          \begin{itemize}
+            \item 矢量图：|.pdf|
+            \item 位图：|.jpg| 或 |.png|
+            \item \alert{不再推荐 \texttt{.eps}}
+            \item 不（完全）支持 |.svg|、|.bmp|
+          \end{itemize}
+    
+        \item 一些参考：\link{https://www.zhihu.com/question/21664179}
+                        \link{https://tex.stackexchange.com/q/158668}
+                        \link{https://tex.stackexchange.com/q/72930}
+      \end{itemize}
+    \end{frame}
+    
+    \begin{frame}[fragile]{表格绘制}
+      \begin{itemize}
+        \item 使用 \pkg{booktabs}、\pkg{longtables}、\pkg{multirow} 等宏包
+        \item 手动绘制表格确实比较令人头疼，且较难维护
+        \item 有编程基础可以使用 Python、R 等语言生成表格代码
+        \item 推荐使用在线工具绘制后导出代码：\LaTeX{} Table Generator \link{https://www.tablesgenerator.com/latex_tables}
+      \end{itemize}
+    \end{frame}
+
+    \begin{frame}[fragile]{引用和参考文献}
+      \begin{columns}
+        \begin{column}{0.45\textwidth}
+          \begin{itemize}
+            \item \LaTeX{} 中的参考文献由\emph{文献数据库}（即 |.bib| 文件）生成
+            \item 向数据库添加文献条目的方法：
+              \begin{itemize}
+                \item 使用 Mendely、Zotero、NoteExpress 等软件导出为 |.bib| 文件
+                \item 从 Google Scholar、MathSciNet、ACM DL 等在线数据库导出
+                \item 手工编写条目（不推荐）
+              \end{itemize}
+          \end{itemize}
+        \end{column}
+        \begin{column}{0.55\textwidth}
+          \begin{lstlisting}[basicstyle=\footnotesize\ttfamily]
+    @article{mellinger1996laser,
+      author     = {Mellinger, A and Vidal, C R and Jungen, {Ch}},
+      title      = {Laser reduced fluorescence study of the carbon monoxide nd triplet Rydberg series},
+      journal    = {J Chem Phys},
+      year       = {1996},
+      volume     = {104},
+      pages      = {8913--8921},
+    }
+            \end{lstlisting}
+        \end{column}
+      \end{columns}
+      \begin{itemize}
+        \item 在正文中使用 |\cite{key1, key2}| 引用条目，并在最后使用 |\bibliography{bibfile}| 命令打印参考文献列表
+        \item \BibTeX{} 可生成各种不同格式的引用和参考文献（需要宏包支持）：APA、MLA、GB/T 7714 等
+        \end{itemize}
+    \end{frame}
+    
+    \begin{frame}[fragile]
+      \frametitle{宏包推荐（\textbf{先读文档}后使用）}
+      \setlength{\leftmarginii}{1.5em}
+      \vspace{-1.5em}
+      \begin{multicols}{3}
+        \begin{itemize}
+          \item 必备
+    
+            \begin{itemize}
+              \item \pkg{amsmath}
+              \item \pkg{graphicx}
+              \item \pkg{hyperref}
+            \end{itemize}
+    
+          \item 样式
+    
+            \begin{itemize}
+              \item \pkg{caption}
+              \item \pkg{enumitem}
+              \item \pkg{fancyhdr}
+              \item \pkg{footmisc}
+              \item \pkg{geometry}
+              \item \pkg{titlesec}
+            \end{itemize}
+    
+          \item 数学
+    
+            \begin{itemize}
+              \item \pkg{bm}
+              \item \pkg{mathtools}
+              \item \pkg{physics}
+              \item \pkg{unicode-math}
+            \end{itemize}
+    
+          \item 表格
+    
+            \begin{itemize}
+              \item \pkg{array}
+              \item \pkg{booktabs}
+              \item \pkg{longtable}
+              \item \pkg{tabularx}
+            \end{itemize}
+    
+          \item 插图、绘图
+    
+            \begin{itemize}
+              \item \pkg{float}
+              \item \pkg{pdfpages}
+              \item \pkg{standalone}
+              \item \pkg{subfig}
+              \item \pkg{pgf}/\pkg{tikz}
+              \item \pkg{pgfplots}
+            \end{itemize}
+    
+          \item 字体
+    
+            \begin{itemize}
+              \item \pkg{newpx}
+              \item \pkg{pifont}
+              \item \pkg{fontspec}
+            \end{itemize}
+    
+          \item 各种功能
+    
+            \begin{itemize}
+              \item \pkg{algorithm2e}
+              \item \pkg{beamer}
+              \item \pkg{biblatex}
+              \item \pkg{listings}
+              \item \pkg{mhchem}
+              \item \pkg{microtype}
+              \item \pkg{minted}
+              \item \pkg{natbib}
+              \item \pkg{siunitx}
+              \item \pkg{xcolor}
+            \end{itemize}
+    
+          \item 多语言
+    
+            \begin{itemize}
+              \item \pkg{babel}
+              \item \pkg{polyglossia}
+              \item \pkg{ctex}
+              \item \pkg{xeCJK}
+            \end{itemize}
+        \end{itemize}
+      \end{multicols}
+      \vspace*{-0.5cm}
+    \end{frame}
+
+%%% vim: set sw=2 isk+=\: et tw=80 cc=+1 formatoptions+=mM:
